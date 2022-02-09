@@ -1,0 +1,17 @@
+{
+  "name": "BETA Cuck Coin",
+  "website": "https://https://betacuck.io",
+  "description": "There are A LOT of cucks out there. The $CUCK coin has been created to bring the beta cucks of the world into public awareness, through memes and other forms of ridicule online. Screw the moon, we're going straight to Uranus!",
+  "explorer": "https://bscscan.com/token/0x5A0169eC2760d67EB3fE4B2EBe3044ae1d465631",
+  "type": "BEP20",
+  "symbol": "$CUCK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5A0169eC2760d67EB3fE4B2EBe3044ae1d465631"
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twiter.com/betacuckcoin"
+    }
+  ]
+}
